@@ -1,0 +1,5 @@
+# Directory patterns
+OLD
+
+# File patterns
+*.pyc
