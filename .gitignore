@@ -1,5 +1,6 @@
 # Directory patterns
-OLD
+.ipynb*
+old
 
 # File patterns
 *.pyc
