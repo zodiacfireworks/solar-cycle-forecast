@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/opt/conda/envs/scilab/bin/python",
+    "python.linting.pylintEnabled": true
+}
